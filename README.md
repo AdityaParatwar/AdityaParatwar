@@ -10,5 +10,5 @@
 - Tools: VS Code, Git, GitHub, Anaconda, Jupyter, Figma.
 
 ### 🌱 Contact info
--📫 Reach me at: [adityaparatwar25@gmail.com](mailto:adityaparatwar25@gmail.com)
+-📫 Reach me at: [adityaparatwar25@gmail.com](mailto:adityaparatwar25@gmail.com)</br>
 -📱 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-paratwar-687679259/)
