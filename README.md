@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Aditya Paratwar! 🚀
 
-<!--
-**AdityaParatwar/AdityaParatwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student @ Walchand Institute of Technology  
+🧠 Passionate about AI, Full Stack Development, and Problem Solving.  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Languages: Python, JavaScript, C, HTML, CSS  
+- Frameworks: React.js, Flask, Streamlit  
+- Databases: MySQL, SQLite, Firebase  
+- Tools: VS Code, Git, GitHub, Anaconda, Jupyter, Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Contact info
+-📫 Reach me at: [adityaparatwar25@gmail.com](mailto:adityaparatwar25@gmail.com)
+-📱 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-paratwar-687679259/)
