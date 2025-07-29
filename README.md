@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Aditya Paratwar! 🚀<br><br>🎓 B.Tech CSE Student @ Walchand Institute of Technology  <br>🧠 Passionate about AI, Full Stack Development, and Problem Solving.  <br><br># 🌱 Contact info<br>-📫 Reach me at: [adityaparatwar25@gmail.com](mailto:adityaparatwar25@gmail.com)<br>-📱 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-paratwar-687679259/)<br>
+## 👋 Hi there, I'm Aditya Paratwar! <br><br>🎓 B.Tech CSE Student @ Walchand Institute of Technology  <br>🧠 Passionate about AI, Full Stack Development, and Problem Solving.  <br><br># 🌱 Contact info<br>-📫 Reach me at: [adityaparatwar25@gmail.com](mailto:adityaparatwar25@gmail.com)<br>-📱 Let's connect on [LinkedIn](https://www.linkedin.com/in/aditya-paratwar-687679259/)<br>
 
 ## 💻 Tech Stack 
 
